@@ -1,0 +1,6 @@
+falcon
+gunicorn
+requests
+dnspython
+
+pytest
