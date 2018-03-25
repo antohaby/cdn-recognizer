@@ -12,18 +12,18 @@ Headers:
 Content-Type : application/json
 `
 Body:
-`
+``
 {
   "url": "http://www.funnygames.at"
 }
-`
+``
 
 *Response:*
-`
+```
 {
     "www.funnygames.at": "Cloudflare",
     "cdnjs.cloudflare.com": "Cloudflare",
     "s7.addthis.com": null,
     "assets.funnygames.at": "OptimiCDN"
 }
-`
+```
